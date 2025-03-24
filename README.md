@@ -19,4 +19,4 @@ This program uses SDL 2.28.2.
 8. Copy SDL2.dll from SDL 2.28.2 to \Debug OR \Release folder
 9. Run program!
 
-The image will take a minute to generate. To generate the image faster, change the ns (# samples) from 100 to 10 in main.cpp.
+The image will take a minute to generate. To generate the image faster, change the ns (number of samples) from 100 to 10 in main.cpp.
