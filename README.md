@@ -5,7 +5,7 @@ Reference: https://raytracing.github.io/
 
 Planning to update this with SDL3 GPU backend and shader code conversion for true real-time performance.
 
---Build Instructions--
+# Build Instructions
 
 This program uses SDL 2.28.2.
 
